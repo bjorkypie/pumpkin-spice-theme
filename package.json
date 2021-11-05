@@ -1,0 +1,21 @@
+{
+    "name": "pumpkin-spice",
+    "displayName": "Pumpkin Spice",
+    "description": "Pumpkin Spice theme is a dark theme based on everyone's favorite fall morning beverage.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pumpkin Spice",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pumpkin Spice-color-theme.json"
+            }
+        ]
+    }
+}
